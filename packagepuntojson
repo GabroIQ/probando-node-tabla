@@ -1,0 +1,4 @@
+se crea en la consola con               --------------   npm init
+bajar yargs para cpontrolar la consola  --------------   npm i yargs
+
+// npm install nodemon --save-dev para instalar dependencias no aplicadas al backend --save-dev
